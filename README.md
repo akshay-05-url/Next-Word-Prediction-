@@ -1,1 +1,1 @@
-"# Next-Word-Prediction-" 
+This project is a **Next Word Prediction system** that suggests possible next words based on user input, similar to mobile keyboard suggestions. It uses an **LSTM model** trained on text data to understand word sequences and predict the top 3 most probable words in real time.
