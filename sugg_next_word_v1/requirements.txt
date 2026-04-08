@@ -1,0 +1,5 @@
+# Next Word Prediction — Python dependencies
+flask>=2.3
+flask-cors>=4.0
+numpy>=1.24
+tensorflow>=2.12       
